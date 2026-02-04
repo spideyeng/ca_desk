@@ -2,4 +2,5 @@
 Desk for Commercial Analyst
 Sandbox for creating market views using Python
 
-Updated as of 3 Feb 2026
+Author: Derek ENG
+Updated as of 4 Feb 2026
