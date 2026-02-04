@@ -3,7 +3,7 @@ Desk for Commercial Analyst
 Sandbox for creating market views using Python
 
 1. [Sample Benchmark Price Dashboard](./notebooks/price_dashboard.ipynb)
-2. [Pre-deal Checklist](./notebooks/pre-deal checklist.md)
+2. [Pre-deal Checklist](./notebooks/pre-deal_checklist.ipynb)
 
 
 Author: Derek ENG
